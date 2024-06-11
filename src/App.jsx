@@ -314,22 +314,7 @@ const App = () => {
               tempore, nemo facilis quidem inventore vero veniam iusto ab cum ea
               voluptatem repellendus odio exercitationem molestias aliquid quasi
               quibusdam nisi recusandae eos fuga quis voluptatibus? Illo unde
-              labore similique eligendi inventore recusandae? Minima eligendi
-              doloremque eum dolorem neque ex, fugiat commodi incidunt?
-              Similique culpa natus, aperiam beatae sunt optio quia nisi, soluta
-              mollitia consectetur, fugit nostrum hic perspiciatis facere porro.
-              Ab, nam. Delectus accusantium alias eveniet et odit cupiditate,
-              rem totam nisi magnam asperiores beatae, nihil atque aliquid
-              reiciendis, praesentium excepturi itaque esse molestias. Mollitia
-              ab quis distinctio eius unde repellat molestias dolorum? Deserunt,
-              beatae quaerat eaque aliquid optio quam eveniet vel cum quia fuga,
-              ex necessitatibus voluptatibus quae? Lorem ipsum dolor sit amet
-              consectetur, adipisicing elit. Corporis eos est at accusantium
-              ipsa ex id, alias repellendus obcaecati ea maxime ut excepturi.
-              Doloremque dolore dolor necessitatibus adipisci dignissimos
-              debitis consequatur delectus beatae, aliquid quos natus facilis
-              repudiandae possimus mollitia aspernatur eligendi ipsam corrupti
-              amet minus cum voluptatibus soluta esse sint.
+              labore similique eligendi inventore recusandae? Minima eligendi.
             </div>
           </div>
         </div>

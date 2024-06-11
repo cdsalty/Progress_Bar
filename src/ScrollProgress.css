@@ -10,7 +10,7 @@
 
 .progress-bar {
   height: 10px;
-  background: #4e3cc0; /* Green color */
+  background: #4e3cc0;
   width: 0;
   transition: width 0.2s ease-out;
 }
